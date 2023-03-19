@@ -1,4 +1,4 @@
-import 'book.dart';
+import '../model/book.dart';
 
 class Invoice {
   final Book book;
